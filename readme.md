@@ -1,3 +1,3 @@
 # Test
 
-Dies ist eine README-Datei mit hilfreichen Hineisen.
+Dies ist eine README-Datei mit hilfreichen Hinweisen.
